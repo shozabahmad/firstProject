@@ -1,1 +1,0 @@
-alert("SHOZAB AHMAD KI YE WEB SITE HAI ")
